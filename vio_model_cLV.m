@@ -1,6 +1,5 @@
-function vio_model_lotka_v2
+function vio_model_cLV
 close all
-clear all
 clc
 
 % simulation time
