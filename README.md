@@ -1,2 +1,2 @@
 # clv
-circuit-in-community model in MATLAB
+MATLAB codes used for competitive fitness model and simulations
